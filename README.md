@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-Llama%204-green.svg)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)
+
 # 🚀 Llama 4 Scout - Setup Completo
 
 ## 📦 File Inclusi
